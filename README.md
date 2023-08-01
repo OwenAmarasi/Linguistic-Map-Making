@@ -20,8 +20,8 @@ and you certainly do not need to have any skills in
 programming to follow this guide.
 I myself currently have no programming skills.
 
-To get started with this guide, download Ewdards Map making guide.pdf
-The screenshots referred to in this guide are in Inkshape screenshots.pdf and QGIS screenshots.pdf.
+To get started with this guide, download "Edwards Map making guide.pdf"
+The screenshots referred to in this guide are in "Inkshape screenshots.pdf" and "QGIS screenshots.pdf".
 The guide refers to a number of accompanying files, which can be found in the AccompanyingFiles_... zip folders.
 Due to limitations on the size of files that can be uploaded to GitHub, these accompaying files had to be
 separated into different zip folders.
