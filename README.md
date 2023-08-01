@@ -12,5 +12,6 @@ However, this file was too big to be uploaded, so I split it into three files:
  - Indonesia
  - Eurasia
  - AfricaAmerica
+
 If you are following the guide sequentially (to make a map of the languages of Timor Island)
 then the file to use instead of Countries.shp is Indonesia.shp.
