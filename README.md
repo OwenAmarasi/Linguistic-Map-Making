@@ -1,6 +1,8 @@
 # Linguistic-Map-Making
 Guide for producing linguistic maps
+
 Owen Edwards
+
 25/03/2022 (uploaded 01/08/2023)
 
 These documents contains a work-flow, or set of instructions,
